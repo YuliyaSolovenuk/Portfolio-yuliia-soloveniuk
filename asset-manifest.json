@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-yuliia-soloveniuk/static/css/main.7acaea2f.css",
+    "main.js": "/portfolio-yuliia-soloveniuk/static/js/main.fd28d75b.js",
+    "index.html": "/portfolio-yuliia-soloveniuk/index.html",
+    "main.7acaea2f.css.map": "/portfolio-yuliia-soloveniuk/static/css/main.7acaea2f.css.map",
+    "main.fd28d75b.js.map": "/portfolio-yuliia-soloveniuk/static/js/main.fd28d75b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.fd28d75b.js"
+  ]
+}
