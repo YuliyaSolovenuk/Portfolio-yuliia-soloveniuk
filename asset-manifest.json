@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio-yuliia-soloveniuk/static/css/main.7acaea2f.css",
-    "main.js": "/portfolio-yuliia-soloveniuk/static/js/main.fd28d75b.js",
+    "main.css": "/portfolio-yuliia-soloveniuk/static/css/main.72272c1a.css",
+    "main.js": "/portfolio-yuliia-soloveniuk/static/js/main.8490b933.js",
     "index.html": "/portfolio-yuliia-soloveniuk/index.html",
-    "main.7acaea2f.css.map": "/portfolio-yuliia-soloveniuk/static/css/main.7acaea2f.css.map",
-    "main.fd28d75b.js.map": "/portfolio-yuliia-soloveniuk/static/js/main.fd28d75b.js.map"
+    "main.72272c1a.css.map": "/portfolio-yuliia-soloveniuk/static/css/main.72272c1a.css.map",
+    "main.8490b933.js.map": "/portfolio-yuliia-soloveniuk/static/js/main.8490b933.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.fd28d75b.js"
+    "static/css/main.72272c1a.css",
+    "static/js/main.8490b933.js"
   ]
 }
