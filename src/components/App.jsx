@@ -1,3 +1,5 @@
+import { Route, Routes } from "react-router-dom";
+
 export const App = () => {
   return (
     <div
@@ -10,6 +12,13 @@ export const App = () => {
         color: '#010101',
       }}
     >
+       <Routes>
+        <Route path="/" element={<div>Home</div>} />
+        {/* <Route path="/" element={<Home />} /> */}
+        {/* <Route path="/about" element={<About />} />
+        <Route path="/products" element={<Projects />} />
+        <Route path="*" element={<NotFound />} /> */}
+      </Routes>
       Hello! My name Yuliia Soloveniuk :)
     </div>
   );
