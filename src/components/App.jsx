@@ -1,4 +1,4 @@
-import { Route, Routes } from "react-router-dom";
+import { NavLink, Route, Routes } from "react-router-dom";
 
 export const App = () => {
   return (
@@ -12,6 +12,14 @@ export const App = () => {
         color: '#010101',
       }}
     >
+      <nav>
+        <NavLink to="/" end>
+          Home
+        </NavLink>
+        <NavLink to="/about">About</NavLink>
+        <NavLink to="/projects">Projects</NavLink>
+      </nav>
+
        <Routes>
         <Route path="/" element={<div>Home</div>} />
         {/* <Route path="/" element={<Home />} /> */}
