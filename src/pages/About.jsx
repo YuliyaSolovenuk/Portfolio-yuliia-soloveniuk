@@ -1,7 +1,9 @@
+import AboutInfo from "components/aboutInfo/AboutInfo";
+
 const About = () => {  
     return (
       <div>
-       About page
+       <AboutInfo/>
       </div>
     );
   };
