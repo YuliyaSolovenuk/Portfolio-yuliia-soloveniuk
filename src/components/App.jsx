@@ -16,12 +16,12 @@ export const App = () => {
       //   color: '#010101',
       // }}
     >
-       <Routes>
-       <Route path="/" element={<Layout />}>
-        <Route index element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/projects" element={<Projects />} />
-        {/* <Route path="*" element={<NotFound />} /> */}
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/projects" element={<Projects />} />
+          {/* <Route path="*" element={<NotFound />} /> */}
         </Route>
       </Routes>
       
