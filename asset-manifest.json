@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-yuliia-soloveniuk/static/css/main.381c6ff4.css",
-    "main.js": "/portfolio-yuliia-soloveniuk/static/js/main.eb2a183e.js",
+    "main.css": "/portfolio-yuliia-soloveniuk/static/css/main.de3bca80.css",
+    "main.js": "/portfolio-yuliia-soloveniuk/static/js/main.05f2620d.js",
+    "static/media/photo_yuliia.jpg": "/portfolio-yuliia-soloveniuk/static/media/photo_yuliia.722a92d1a9e98dd21056.jpg",
     "static/media/jpeg": "/portfolio-yuliia-soloveniuk/static/media/a2e091948a99374d.dc253824b6ceec710544.jpeg",
     "static/media/logo-light-mini.png": "/portfolio-yuliia-soloveniuk/static/media/logo-light-mini.7c791311f274023fb35a.png",
     "index.html": "/portfolio-yuliia-soloveniuk/index.html",
-    "main.381c6ff4.css.map": "/portfolio-yuliia-soloveniuk/static/css/main.381c6ff4.css.map",
-    "main.eb2a183e.js.map": "/portfolio-yuliia-soloveniuk/static/js/main.eb2a183e.js.map"
+    "main.de3bca80.css.map": "/portfolio-yuliia-soloveniuk/static/css/main.de3bca80.css.map",
+    "main.05f2620d.js.map": "/portfolio-yuliia-soloveniuk/static/js/main.05f2620d.js.map"
   },
   "entrypoints": [
-    "static/css/main.381c6ff4.css",
-    "static/js/main.eb2a183e.js"
+    "static/css/main.de3bca80.css",
+    "static/js/main.05f2620d.js"
   ]
 }
